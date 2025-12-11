@@ -37,7 +37,3 @@ Below is an overview of the core courses that structured my training:
 ITAI 1378 — Computer Vision for Artificial Intelligence (A I) 
 
 Introduced the foundations of computer vision, including filtering, transformations, segmentation, and early exposure to CNN architectures.# MariaJose-Viveros-AI-Portfolio-ITAI1378
-
-ITAI 2371 — Machine Learning
-
-Introduced supervised and unsupervised learning, model validation, ensemble methods, and interpretability.
