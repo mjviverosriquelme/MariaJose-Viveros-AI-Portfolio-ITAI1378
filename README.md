@@ -1,4 +1,4 @@
-ntroduction
+Introduction
 
 I study Applied Artificial Intelligence and Robotics at Houston Community College, where I focus on understanding how machine learning models learn from data and how they can support cognitive and behavioral analysis in real contexts. I am especially interested in image-based classification, healthcare applications, and the intersection between psychology and artificial intelligence.
 
